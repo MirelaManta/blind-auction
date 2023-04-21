@@ -1,5 +1,5 @@
 ## Blind Auction ##
-__I created this program using my knowledge of Python dictionaries and loops__  
+__I created this program using my knowledge of Python dictionaries and loops.__  
 #### Outlook: ####
 * We're holding an audition for a very precious object.  
 * There is no maximum number of bidders.
